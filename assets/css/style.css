@@ -8,7 +8,7 @@ body {
 
 h1,
 h2 {
-    color: darkred;
+    color: red;
 }
 
 h3, 
@@ -50,7 +50,7 @@ nav a {
 }
 
 nav a:hover {
-    color: darkred;
+    color: red;
 }
 
 #banner {
@@ -69,10 +69,11 @@ nav a:hover {
     background-color: white;
     border: 5px solid green;
     border-radius: 5px;
-    color: darkred;
+    color: red;
     font-size: 2em;
     padding: 20px;
     margin: 10px;
+    text-align: center;
 }
 
 table {
