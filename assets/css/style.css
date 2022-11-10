@@ -85,3 +85,7 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+#setup img{
+    width: 50%;
+    height: auto;
+}
