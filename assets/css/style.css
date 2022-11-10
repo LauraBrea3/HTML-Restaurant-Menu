@@ -9,6 +9,7 @@ body {
 h1,
 h2 {
     color: darkred;
+    text-align: center;
 }
 
 h3, 
@@ -89,4 +90,8 @@ th {
 #setup img{
     width: 50%;
     height: auto;
+}
+.cities{
+    list-style-type: none;
+    text-align: center;
 }
